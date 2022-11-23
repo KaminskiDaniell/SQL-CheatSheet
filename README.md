@@ -306,7 +306,7 @@ Jeśli w nazwie użytkownika lub w nazwie domeny nie występują znaki specjalne
 Zastosowanie symbolu % oznacza dowolny komputer:
 * `CREATE USER uzytkownik@' %' IDENTIFIED BY 'hasło'`;
 Nazwa hosta może być również podawana w postaci adresu IP:
-* `CREATE USER 'user'@'213.186.88.112' IDENTIFIED BY 'hasło'`
+* `CREATE USER 'user'@'192.168.0.1' IDENTIFIED BY 'hasło'`
 
 <a name="erd"></a>
 # 9. Diagramy ERD
