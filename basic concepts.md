@@ -1,5 +1,7 @@
 # RDBMS (Relational Database Management System)
 
+![SQL Cheatsheet](image.jpg)
+
 ## Tabela
 
 Dane w bazie danych są przechowywane w obiektach bazy danych, które są nazywane tabelami. Ta tabela jest w zasadzie zbiorem powiązanych wpisów danych i składa się z wielu kolumn i wierszy
