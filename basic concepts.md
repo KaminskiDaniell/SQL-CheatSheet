@@ -1,6 +1,6 @@
 # RDBMS (Relational Database Management System)
 
-![SQL Cheatsheet](image.jpg)
+
 
 ## Tabela
 
